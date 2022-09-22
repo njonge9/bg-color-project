@@ -1,0 +1,14 @@
+.button {
+    height: 840px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#btn{
+    border: 1px solid violet;
+    font-size: x-large;
+    background-color: tomato;
+    font-weight: bold;
+    
+}
